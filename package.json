@@ -1,0 +1,8 @@
+{
+  "name": "firebase-express-proxy",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "^4.11.2",
+    "firebase": "^2.2.0"
+  }
+}
